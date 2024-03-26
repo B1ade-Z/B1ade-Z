@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=B1ade-Z.B1ade-Z" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=1EC899&random=false&lines=Hey%2C+it's+Blade-Z!;Blade-Z%3A+finding+bugs+to+make+them+feature;Blade-Z%3A+using+microsoft+word+as+my+IDE;Blade-Z%3A+fear+from+third-eye)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=1EC899&random=false&lines=Hey%2C+it's+Blade-Z!;Blade-Z%3A+finding+bugs+to+make+them+feature;Blade-Z%3A+using+microsoft+word+as+my+IDE;Blade-Z%3A+fear+from+third-eye)](https://git.io/typing-svg)
 
 <!--
 **B1ade-Z/B1ade-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
