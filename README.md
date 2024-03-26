@@ -30,7 +30,5 @@
   />
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=Blade-Z&show_icons=true" />
 </picture>
-</div>
-<div>
 <a href="https://git.io/streak-stats"><img width=400 height=167 src="https://streak-stats.demolab.com?user=B1ade-Z&theme=dark&mode=weekly&border_radius=10" alt="GitHub Streak" /></a>
 </div>
