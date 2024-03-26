@@ -20,7 +20,7 @@
 <h2>📈 STATS</h2>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=B1ade-Z&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=B1ade-Z&show_icons=true&rank_icon=github&border_radius=10&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
