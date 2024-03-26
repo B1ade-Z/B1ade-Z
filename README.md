@@ -32,5 +32,5 @@
 </picture>
 </div>
 <div>
-<a href="https://git.io/streak-stats"><img width=400 height=167 src="https://streak-stats.demolab.com?user=B1ade-Z&theme=dark&mode=weekly&border_radius=10" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width=400 height=167.01 src="https://streak-stats.demolab.com?user=B1ade-Z&theme=dark&mode=weekly&border_radius=10" alt="GitHub Streak" /></a>
 </div>
