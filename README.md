@@ -12,8 +12,8 @@
 `👨‍💻` <h2>LEARNING AND DEVELOPMENT</h2>
 </br>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,rust,cpp,vscode,visualstudio,linux,kali,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=python,git,github,rust,cpp,vscode,visualstudio,linux,kali,unity,unreal" />
   </a>
 </p>
