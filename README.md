@@ -18,7 +18,7 @@
 
 </br>
 <h2>📈 STATS</h2>
-<div width=10>
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=B1ade-Z&show_icons=true&rank_icon=github&border_radius=10&theme=dark"
@@ -30,5 +30,5 @@
   />
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=Blade-Z&show_icons=true" />
 </picture>
-</div>
 <a href="https://git.io/streak-stats"><img width=425 src="https://streak-stats.demolab.com?user=B1ade-Z&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
+</div>
