@@ -19,3 +19,4 @@
 </br>
 <h2>📈 STATS</h2>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=B1ade-Z&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+![Blade-Z GitHub stats](https://github-readme-stats.vercel.app/api?username=B1ade-Z&show_icons=true&theme=dark)
