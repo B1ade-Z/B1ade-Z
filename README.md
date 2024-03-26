@@ -10,8 +10,6 @@
 🔗**Social**: -[Telegram](https://t.me/UnderDeeds)
 
 `👨‍💻` <h2>LEARNING AND DEVELOPMENT</h2>
-</br>
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,git,github,rust,cpp,vscode,visualstudio,linux,kali,unity,unreal" />
