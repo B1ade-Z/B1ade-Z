@@ -10,7 +10,6 @@
 🔗**Social**: -[Telegram](https://t.me/UnderDeeds)
 
 </br>
-
 <h2><code>👨‍💻</code> LEARNING AND DEVELOPMENT</h2>
 <p>
   <a href="https://skillicons.dev">
