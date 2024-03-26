@@ -29,4 +29,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Blade-Z&show_icons=true" />
 </picture>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=B1ade-Z&theme=dark&mode=weekly&card_width=475&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=B1ade-Z&theme=dark&mode=weekly&card_width=475&card_height=196" alt="GitHub Streak" /></a>
