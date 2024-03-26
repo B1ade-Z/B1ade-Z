@@ -6,7 +6,7 @@
 
 🌱**Learning**: `Python`, `Game Development`, `Offensive Security and Tool making`
 
-🔗**Social**: -[Telegram](https://t.me/UnderDeeds)
+🔗**Social**: [Telegram](https://t.me/UnderDeeds)
 
 </br>
 <h2>👨‍💻 LEARNING AND DEVELOPMENT</h2>
