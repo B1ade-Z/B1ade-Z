@@ -1,5 +1,5 @@
 <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=1EC899&random=false&lines=Hey%2C+it's+Blade-Z!;Blade-Z%3A+finding+bugs+to+make+them+feature;Blade-Z%3A+using+microsoft+word+as+my+IDE;Blade-Z%3A+fear+from+third-eye" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2000&pause=1000&color=1EC899&random=false&lines=Hey%2C+it's+Blade-Z!;Blade-Z%3A+finding+bugs+to+make+them+feature;Blade-Z%3A+using+microsoft+word+as+my+IDE;Blade-Z%3A+fear+from+third-eye" alt="Typing SVG" /></a>
 </h1>
 
 </br>
