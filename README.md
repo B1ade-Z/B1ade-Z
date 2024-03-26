@@ -19,7 +19,7 @@
 </br>
 <h2>📈 STATS</h2>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=B1ade-Z&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
-<div align="right">
+<div align="center-right">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=B1ade-Z&show_icons=true&theme=dark"
