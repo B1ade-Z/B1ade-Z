@@ -9,9 +9,13 @@
 🔗**Social**: -[Telegram](https://t.me/UnderDeeds)
 
 </br>
-<h2><code>👨‍💻</code> LEARNING AND DEVELOPMENT</h2>
+<h2>👨‍💻 LEARNING AND DEVELOPMENT</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,git,github,rust,cpp,vscode,visualstudio,linux,kali,unity,unreal" />
   </a>
 </p>
+
+</br>
+<h2>📈 STATS</h2>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=B1ade-Z&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
