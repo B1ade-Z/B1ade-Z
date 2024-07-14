@@ -4,7 +4,7 @@
 
 🗨️**About**: I'am beginning my journey as a Game Developer and offensive security enthusiast focusing on offensive development and learning to write offensive tools. 
 
-🌱**Learning**: `Python`, `Game Development`, `Offensive Security and Tool making`
+🌱**Learning**: `Python` `Rust` `C++` `Game Development` `Offensive Security and Tool making`
 
 </br>
 <h2>👨‍💻 LEARNING AND DEVELOPMENT</h2>
